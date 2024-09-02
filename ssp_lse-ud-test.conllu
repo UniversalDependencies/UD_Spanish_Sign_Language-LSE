@@ -4063,7 +4063,7 @@
 # text_es = El oso ataca y el hombre se asusta
 # text_en = The bear attacks and the man is scared
 1	OSO	_	NOUN	N.P	_	2	nsubj	_	Gloss=BEAR
-2	cl.c(5d):garras-atacar	_	VERB	V.D	_	0	root:svc	_	Gloss=cl
+2	cl.c(5d):garras-atacar	_	VERB	V.D	_	0	root	_	Gloss=cl
 3	HOMBRE	_	NOUN	N.P	_	5	obj	_	Gloss=MAN
 4	G:hombre-asustarse	_	VERB	xxx	_	3	acl	_	Gloss=G
 5	ASUSTAR(2M)	_	VERB	V.P	_	2	compound:svc	_	Gloss=SCARE(2H)
