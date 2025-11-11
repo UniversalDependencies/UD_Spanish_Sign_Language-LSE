@@ -38,6 +38,7 @@ Manual grammatical annotation of the corpus, including syntactic annotation, for
 Data available since: UD v2.15
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: no
 Genre: fiction
 Lemmas: manual native
 UPOS: manual native
